@@ -1,4 +1,4 @@
-package com.llx278.javascriptbridge;
+package com.llx278.jsbridge;
 
 import org.junit.Test;
 
